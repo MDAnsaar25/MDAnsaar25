@@ -1,432 +1,691 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohamed%20Ansaar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20in%20Progress%20%7C%20Python%20Developer&descAlignY=58&descSize=18"/>
+👋 Hi, I'm Mohamed Ansaar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+my+path+towards+AI+%26+Machine+Learning;Learning+ML+by+building+real+projects;Python+%7C+Data+%7C+Machine+Learning+%7C+AI;From+Data+Analysis+to+Intelligent+Systems"/>
+🤖 AI / ML Engineer in Progress • 🐍 Python Developer • 📊 Data Enthusiast
 
-<br/>
+<p>
+  <strong>Python</strong> •
+  <strong>Machine Learning</strong> •
+  <strong>Artificial Intelligence</strong> •
+  <strong>Data Analytics</strong>
+</p>
 
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Working%20Knowledge-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-Working%20Knowledge-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![React](https://img.shields.io/badge/React.js-Working%20Knowledge-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<br>
 
-<br/>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-F7931E?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Exploring-8B5CF6?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data-Analytics-6D28D9?style=for-the-badge)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MDAnsaar25&color=8B5CF6&style=flat-square)
+
+
+<br>
+
+
+
+
+
+<br><br>
+
+
 
 </div>
 
----
+🧠 About Me
 
-# 👋 About Me
+I'm Mohamed Ansaar, a Python developer and coding educator with around 6 years of experience in EdTech, currently building my career towards Machine Learning and Artificial Intelligence.
 
-I'm **Mohamed Ansaar**, a Python developer and coding educator with around **6 years of experience in EdTech**, currently building my career towards **Machine Learning and Artificial Intelligence**.
+My journey started with programming and coding education, and I'm now expanding deeper into:
 
-My focus is moving from programming and data analysis toward building complete AI/ML solutions:
+🤖 Machine Learning
 
-**Data → Analysis → Features → Models → Evaluation → Applications → Deployment**
+🧠 Artificial Intelligence
 
-I believe the best way to learn AI is by:
+📊 Data Analytics
 
-**Learning → Building → Experimenting → Debugging → Improving**
+🐍 Python Development
 
-```python
-mohamed = {
-    "focus": [
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Data"
-    ],
+🌐 Application Development
 
-    "languages": [
-        "Python",
-        "JavaScript",
-        "C"
-    ],
+📈 Data Visualization
 
-    "frontend": [
-        "React.js"
-    ],
+My current learning path is:
 
-    "experience": "6+ years in Coding Education",
+Python
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+MLOps
 
-    "currently_learning": [
-        "Machine Learning",
-        "SQL",
-        "Statistics",
-        "Streamlit"
-    ],
+I believe the best way to learn technology is:
 
-    "goal": "Build real-world AI/ML systems"
-}
-```
+Learn → Build → Experiment → Debug → Improve
 
----
+My goal is to understand not only how a model works, but also:
 
-# 🛠️ AI / ML Tech Stack
+Why it works → When to use it → How to evaluate it → How to improve it → How to deploy it
 
-## 💻 Programming
+👨‍💻 What I Do
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,c" height="45"/>
-</p>
+🧑‍🏫 Teach coding and programming concepts
 
-`Python — Intermediate` • `JavaScript` • `C`
+🐍 Build projects using Python
 
----
+📊 Analyze and visualize data
 
-## 🌐 Web Development
+🤖 Learn and build Machine Learning models
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" height="45"/>
-</p>
+🧠 Explore Artificial Intelligence
 
-`React.js` • `HTML` • `CSS`
+🌐 Build web applications
 
----
+🧪 Experiment with new technologies
 
-## 📊 Data
+📚 Create educational programming projects
 
-`Pandas` • `NumPy` • `Matplotlib` • `Excel`
+🔍 Solve problems using data and code
 
----
+🛠️ Tech Stack
 
-## 🤖 Machine Learning
-
-`Scikit-learn`
-
-Currently developing practical experience with:
-
-`Regression` • `Classification` • `Clustering` • `Feature Engineering` • `Model Evaluation`
-
----
-
-## 🗄️ Data & Databases
-
-`SQL — Learning`
-
----
-
-## 🚀 ML Applications
-
-`Streamlit — Learning`
-
----
-
-## 🔧 Tools
+💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,js,c" height="45">
 </p>
 
-`Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
+Python • JavaScript • C
 
----
+🌐 Web Development
 
-# 📊 Skill Progress
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" height="45">
+</p>
 
-| Technology | Level | Focus |
-|---|:---:|---|
-| 🐍 Python | 🟢 Intermediate | Data + ML |
-| 🟨 JavaScript | 🟡 Working Knowledge | Web Development |
-| 🔵 C | 🟡 Working Knowledge | Programming Fundamentals |
-| ⚛️ React.js | 🟡 Working Knowledge | Frontend |
-| 📊 Pandas | 🟢 Working Knowledge | Data Analysis |
-| 🔢 NumPy | 🟢 Working Knowledge | Numerical Computing |
-| 📈 Matplotlib | 🟢 Working Knowledge | Visualization |
-| 📗 Excel | 🟢 Intermediate | Analytics |
-| 🗄️ SQL | 🟡 Learning | Data |
-| 🤖 Scikit-learn | 🟡 Learning | Machine Learning |
-| 🚀 Streamlit | 🟡 Learning | ML Applications |
+React.js • HTML • CSS
 
-### Legend
+📊 Data & Analytics
 
-🟢 Comfortable / Working Knowledge  
-🟡 Currently Learning  
+Pandas • NumPy • Matplotlib • Excel
+
+Currently learning:
+
+SQL • Power BI
+
+🤖 Machine Learning
+
+Scikit-learn
+
+Currently developing practical knowledge in:
+
+Data Preprocessing
+
+Exploratory Data Analysis
+
+Feature Engineering
+
+Regression
+
+Classification
+
+Clustering
+
+Model Evaluation
+
+Model Selection
+
+Hyperparameter Tuning
+
+Cross Validation
+
+🚀 ML Applications
+
+Streamlit
+
+Learning how to convert data analysis and Machine Learning projects into interactive applications.
+
+🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="45">
+</p>
+
+Git • GitHub • VS Code • Jupyter Notebook
+
+📊 Skill Progress
+
+Technology
+
+Level
+
+Main Focus
+
+🐍 Python
+
+🟢 Intermediate
+
+Programming, Data, ML
+
+🟨 JavaScript
+
+🟡 Working Knowledge
+
+Web Development
+
+🔵 C
+
+🟡 Working Knowledge
+
+Programming Fundamentals
+
+⚛️ React.js
+
+🟡 Working Knowledge
+
+Frontend Development
+
+📊 Pandas
+
+🟢 Working Knowledge
+
+Data Analysis
+
+🔢 NumPy
+
+🟢 Working Knowledge
+
+Numerical Computing
+
+📈 Matplotlib
+
+🟢 Working Knowledge
+
+Data Visualization
+
+📗 Excel
+
+🟢 Intermediate
+
+Data Analytics
+
+🗄️ SQL
+
+🟡 Learning
+
+Data & Analytics
+
+📊 Power BI
+
+🟡 Learning
+
+Business Intelligence
+
+🤖 Scikit-learn
+
+🟡 Learning
+
+Machine Learning
+
+🚀 Streamlit
+
+🟡 Learning
+
+ML Applications
+
+Legend
+
+🟢 Comfortable / Working Knowledge
+🟡 Currently Learning
 🔵 Planned
 
----
+🤖 Machine Learning Journey
 
-# 🤖 Machine Learning
+I'm currently strengthening my understanding of the complete Machine Learning workflow.
 
-I'm currently strengthening my understanding of the complete **Machine Learning workflow**.
+             Raw Data
+                 │
+                 ▼
+          Data Cleaning
+                 │
+                 ▼
+      Exploratory Data Analysis
+                 │
+                 ▼
+       Feature Engineering
+                 │
+                 ▼
+          Model Selection
+                 │
+                 ▼
+             Training
+                 │
+                 ▼
+            Evaluation
+                 │
+                 ▼
+           Optimization
+                 │
+                 ▼
+            Deployment
 
-### Working On
+Current Focus
 
-- Exploratory Data Analysis
-- Data Cleaning
-- Data Preprocessing
-- Feature Engineering
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
-- Model Selection
-- Hyperparameter Tuning
-- Building ML applications
+Data preprocessing
 
-My goal isn't just:
+Exploratory Data Analysis
 
-```python
+Feature engineering
+
+Regression
+
+Classification
+
+Clustering
+
+Model evaluation
+
+Hyperparameter tuning
+
+Cross validation
+
+Practical ML applications
+
+My goal isn't simply:
+
 model.fit(X_train, y_train)
-```
 
 I want to understand:
 
-**Why the model works → When to use it → How to evaluate it → How to improve it → How to deploy it**
+Why
+ ↓
+When
+ ↓
+How
+ ↓
+Evaluate
+ ↓
+Improve
+ ↓
+Deploy
 
----
+🚀 Featured Projects
 
-# 🚀 Featured Projects
+🌍 World Water & Air Quality Analysis
 
-## 🌍 World Water & Air Quality Analysis
+Data Analytics • Python
 
-**Data Analysis • Python**
+An exploratory data analysis project focused on understanding patterns and trends in water quality and air pollution data.
 
-Exploratory analysis of global environmental data to understand patterns in water quality and air pollution.
+What I Practiced
 
-### What I Practiced
+Data Cleaning
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Trend Analysis
-- Insight Generation
+Exploratory Data Analysis
 
-**Tech**
+Data Visualization
 
-`Python` `Pandas` `NumPy` `Matplotlib`
+Pandas
 
----
+NumPy
 
-## 👨‍🏫 Tutor Analysis
+Matplotlib
 
-**Data Analytics • Python • Excel**
+Trend Analysis
 
-Analysis of tutor-related data to identify meaningful patterns and generate actionable insights.
+Insight Generation
 
-### What I Practiced
+Technologies
 
-- Data Cleaning
-- Exploratory Analysis
-- Performance Analysis
-- Visualization
-- Insight Generation
+Python Pandas NumPy Matplotlib
 
-**Tech**
+👨‍🏫 Tutor Analysis
 
-`Python` `Pandas` `Excel`
+Data Analytics • Python • Excel
 
----
+A data analysis project focused on exploring tutor-related data and identifying meaningful patterns and insights.
 
-## 🧪 Machine Learning Projects
+What I Practiced
 
-🚧 **Currently Building**
+Data Cleaning
 
-This section will grow as I complete ML projects.
+Exploratory Analysis
 
-### Planned Projects
+Performance Analysis
 
-- Customer Churn Prediction
-- Customer Segmentation
-- House Price Prediction
-- Recommendation Systems
-- NLP Classification
-- End-to-End ML Applications
+Data Visualization
 
----
+Pattern Identification
 
-# 🗺️ AI / ML Roadmap
+Insight Generation
 
-This roadmap will evolve as my knowledge grows.
+Technologies
 
-## 🟢 Foundation
+Python Pandas Excel
 
-- [x] Python
-- [x] NumPy
-- [x] Pandas
-- [x] Matplotlib
-- [x] Data Cleaning
-- [x] Exploratory Data Analysis
-- [ ] Statistics for Machine Learning
-- [ ] Advanced SQL
+🎮 Educational Python Projects
 
-## 🤖 Machine Learning
+Python • Pygame
 
-- [ ] Linear Regression
-- [ ] Logistic Regression
-- [ ] Decision Trees
-- [ ] Random Forest
-- [ ] K-Nearest Neighbors
-- [ ] Support Vector Machines
-- [ ] Naive Bayes
-- [ ] K-Means Clustering
-- [ ] PCA
-- [ ] Feature Engineering
-- [ ] Hyperparameter Tuning
-- [ ] Cross Validation
+I also build small Python-based educational applications and games to make programming concepts more interactive and engaging.
 
-## 🧠 Deep Learning
+Technologies
 
-- [ ] Neural Networks
-- [ ] PyTorch
-- [ ] TensorFlow
-- [ ] CNN
-- [ ] RNN / LSTM
-- [ ] Transformers
+Python Pygame
 
-## 💬 Generative AI
+🧪 Machine Learning Projects
 
-- [ ] LLM Fundamentals
-- [ ] Prompt Engineering
-- [ ] Embeddings
-- [ ] Vector Databases
-- [ ] RAG
-- [ ] AI Agents
-- [ ] LLM APIs
-- [ ] Fine-Tuning
+🚧 This section will grow as I build more ML projects.
 
-## ⚙️ MLOps
+Planned Projects
 
-- [ ] FastAPI
-- [ ] Docker
-- [ ] MLflow
-- [ ] Model Deployment
-- [ ] Model Monitoring
-- [ ] CI/CD for ML
-- [ ] Cloud Fundamentals
+Customer Churn Prediction
 
----
+Customer Segmentation
 
-# 🎯 Current Focus
+House Price Prediction
 
-```yaml
+Recommendation System
+
+NLP Classification
+
+End-to-End ML Application
+
+ML Model Deployment
+
+🗺️ AI / ML Roadmap
+
+This is an evolving roadmap.
+
+As I learn and gain practical experience, I'll move technologies from the roadmap into my main Tech Stack.
+
+🟢 Machine Learning Foundations
+
+Python
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Data Cleaning
+
+Exploratory Data Analysis
+
+Statistics for Machine Learning
+
+Advanced SQL
+
+Feature Engineering
+
+Model Evaluation
+
+🤖 Machine Learning
+
+Linear Regression
+
+Logistic Regression
+
+Decision Trees
+
+Random Forest
+
+K-Nearest Neighbors
+
+Support Vector Machines
+
+Naive Bayes
+
+K-Means Clustering
+
+PCA
+
+Ensemble Learning
+
+Hyperparameter Tuning
+
+Cross Validation
+
+🧠 Deep Learning
+
+Neural Networks
+
+PyTorch
+
+TensorFlow
+
+CNN
+
+RNN
+
+LSTM
+
+Transformers
+
+💬 Generative AI
+
+LLM Fundamentals
+
+Prompt Engineering
+
+Embeddings
+
+Vector Databases
+
+RAG
+
+AI Agents
+
+LLM APIs
+
+Fine-Tuning
+
+LLM Evaluation
+
+⚙️ MLOps
+
+FastAPI
+
+Docker
+
+MLflow
+
+Model Deployment
+
+Model Monitoring
+
+CI/CD
+
+Cloud Platforms
+
+Production ML Systems
+
+🎯 Current Focus
+
 current_phase: "Machine Learning Foundations"
 
-learning:
+stronger_skills:
+  - Python
+  - Excel
+  - Programming
+  - Data Analysis
+
+currently_learning:
   - Machine Learning
   - SQL
   - Statistics
+  - Power BI
   - Streamlit
 
 building:
   - Data Analysis Projects
   - Machine Learning Projects
   - Python Applications
+  - Educational Projects
 
-next:
+future_focus:
   - Deep Learning
   - NLP
   - Generative AI
   - RAG
+  - AI Agents
   - MLOps
 
 career_target:
   - Machine Learning Engineer
   - AI Engineer
   - Data / ML Roles
-```
 
----
+🧑‍🏫 Professional Background
 
-# 🧑‍🏫 Professional Background
+I have around 6 years of experience in EdTech and coding education.
 
-Before moving deeper into AI/ML, I built around **6 years of experience in coding education and EdTech**.
+Teaching programming has helped me develop strong skills in:
 
-Teaching programming has helped me develop:
+Programming fundamentals
 
-- Strong programming fundamentals
-- Problem decomposition
-- Debugging
-- Technical communication
-- Mentoring
-- Explaining complex concepts simply
-- Continuous learning
+Problem solving
 
-Now I'm combining that experience with **Machine Learning and Artificial Intelligence** to build practical intelligent applications.
+Logical thinking
 
----
+Debugging
 
-# 📈 GitHub Analytics
+Technical communication
+
+Mentoring
+
+Breaking complex concepts into simple steps
+
+Continuous learning
+
+I'm now combining that experience with Data, Machine Learning, and Artificial Intelligence to build practical intelligent applications.
+
+I see my teaching experience as an advantage because explaining a technical concept clearly requires understanding it deeply.
+
+🌱 Learning in Public
+
+This GitHub profile represents my actual technical journey.
+
+I prefer:
+
+Build > Claim
+
+I don't want to list technologies simply because I've heard about them.
+
+Instead:
+
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Experiment
+  ↓
+Deploy
+  ↓
+Add to Stack
+
+As my knowledge grows, this profile will evolve with me.
+
+📈 GitHub Analytics
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/stats.svg" width="49%">
 
-<img src="./profile/top-langs.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="49%">
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="./profile/trophy.svg" width="90%" />
+<img src="./profile/trophy.svg" width="90%">
 
 </div>
 
----
-
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img alt="GitHub contribution snake" src="./profile/github-snake.svg">
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="./profile/github-snake-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="./profile/github-snake.svg">
+
+<img
+ alt="GitHub contribution snake"
+ src="./profile/github-snake.svg">
+
 </picture>
 
 </div>
 
----
+📚 What I'm Learning Next
 
-# 🌱 Learning in Public
+My learning priorities will evolve over time.
 
-This GitHub profile represents my **actual learning journey**.
+Current
 
-I prefer:
+Python → Data Analysis → Machine Learning
 
-> **Build > Claim**
+Next
 
-Technologies are added to my main stack only after I gain practical experience with them.
+Statistics → Advanced ML → Deep Learning
 
-Until then, they remain in my roadmap.
+Later
 
-As I learn more, this profile will evolve:
+NLP → Generative AI → RAG → AI Agents
 
-**Python → Data → ML → Deep Learning → Generative AI → MLOps**
+Eventually
 
----
+MLOps → Deployment → Production AI Systems
 
-# 📫 Connect With Me
+💡 My Philosophy
+
+Technology is not about memorizing syntax.
+
+It's about understanding the problem.
+
+What problem are we solving?
+             ↓
+Why are we solving it?
+             ↓
+What data do we have?
+             ↓
+What approach makes sense?
+             ↓
+How do we measure success?
+             ↓
+How can we improve it?
+
+That's the mindset I try to bring into both teaching and technical projects.
+
+📫 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MDAnsaar25-181717?style=for-the-badge&logo=github)](https://github.com/MDAnsaar25)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ansaar-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+
 
 </div>
 
----
-
 <div align="center">
 
-### 🧠 Learn → Build → Experiment → Improve → Repeat
+🧠 Learn → Build → Experiment → Improve → Repeat
 
-**Building my path from Python & Data to Machine Learning & AI. 🚀**
+Building my path from Python & Data to Machine Learning & AI. 🚀
 
 </div>
