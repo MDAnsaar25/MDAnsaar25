@@ -21,10 +21,11 @@
 <br/>
 <br/>
 
-🏆 GitHub Trophies:
+
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MDAnsaar25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+<img src="./assets/trophy.svg" alt="GitHub Trophies" width="100%">
 </p>
 
 ### ✍️ Random Dev Quote
