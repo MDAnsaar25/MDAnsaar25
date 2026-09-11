@@ -18,6 +18,15 @@
 ![](https://streak-stats.demolab.com/?user=MDAnsaar25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MDAnsaar25&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<br/>
+<br/>
+
+🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MDAnsaar25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
