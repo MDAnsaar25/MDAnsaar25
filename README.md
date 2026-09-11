@@ -25,7 +25,7 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="./assets/trophy.svg" alt="GitHub Trophies" width="100%">
+<img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%">
 </p>
 
 ### ✍️ Random Dev Quote
